@@ -1,0 +1,9 @@
+[submodule "mojo-gpu-puzzles"]
+	path = mojo-gpu-puzzles
+	url = https://github.com/modular/mojo-gpu-puzzles.git
+[submodule "mojo"]
+	path = mojo
+	url = https://github.com/modularml/mojo.git
+[submodule "modular"]
+	path = modular
+	url = https://github.com/modular/modular.git
