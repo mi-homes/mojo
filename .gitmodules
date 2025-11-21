@@ -4,3 +4,6 @@
 [submodule "modular"]
 	path = modular
 	url = https://github.com/modular/modular.git
+[submodule "max-llm-book"]
+	path = max-llm-book
+	url = https://github.com/modular/max-llm-book.git
